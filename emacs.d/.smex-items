@@ -1,0 +1,25 @@
+
+;; ----- smex-history -----
+(
+ dired
+ emmet-expand-yas
+ menu-bar-open
+ emmet-mode
+ list-packages
+ customize-themes
+ package-menu-mode
+)
+
+;; ----- smex-data -----
+(
+ (customize-mode . 1)
+ (customize . 1)
+ (customize-themes . 2)
+ (package-install . 1)
+ (package-menu-mode . 2)
+ (menu-bar-open . 5)
+ (list-packages . 1)
+ (emmet-mode . 1)
+ (emmet-expand-yas . 5)
+ (dired . 1)
+)

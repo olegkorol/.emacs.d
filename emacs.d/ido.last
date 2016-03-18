@@ -1,0 +1,52 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/cygdrive/c/Users/Oleg/" . "AppData/")
+ ("/cygdrive/c/Users/" . "Oleg/")
+ ("/cygdrive/c/" . "Users/")
+ ("/cygdrive/" . "c/")
+ ("/" . "cygdrive/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/"
+ "/home/Oleg/.emacs.d/"
+ "/home/Oleg/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Cygwin-Terminal.ico"
+ "LICENSE"
+ "new.css"
+ "#testing.css#"
+ "testing.js"
+ "testing.css"
+ "testing.html"
+ "html.html"
+ "letstest.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/cygdrive/" (22244 49492 0 0) "../" "./" "d/" "c/")
+
+ ("/cygdrive/c/Users/Oleg/AppData/" (22146 47694 516233 900000) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("/cygdrive/c/Users/Oleg/" (22217 59970 51010 100000) "Videos/" "Tracing/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "ovpntray.log" "openvpn-connect.json" "ntuser.ini" "ntuser.dat{75365c1c-b64a-11e5-9c3c-f0761c13b05c}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{75365c1c-b64a-11e5-9c3c-f0761c13b05c}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{75365c1c-b64a-11e5-9c3c-f0761c13b05c}.TM.blf" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "ntuser.dat" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Intel/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "agent.log" ".VirtualBox/" ".rnd" ".gimp-2.8/" ".atom/" "../" "./")
+
+ ("/cygdrive/c/Users/" (22146 47694 407033 700000) "Public/" "Oleg/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("/cygdrive/c/" (22241 47132 782150 500000) "../" "./" "Windows/" "Users/" "System Volume Information/" "Recovery/" "ProgramData/" "Program Files (x86)/" "Program Files/" "PerfLogs/" "pagefile.sys" "Intel/" "hiberfil.sys" "DRIVERS/" "Documents and Settings/" "cygwin/" "Bitnami/" "$Recycle.Bin/")
+
+ ("/home/" (22148 2298 339990 200000) "Oleg/" "../" "./")
+
+ ("/home/Oleg/.emacs.d/" (22244 49364 887469 900000) "var/" "test-startup.sh" "site-lisp/" "recentf" "README.md" "org-clock-save.el" "lisp/" "LICENSE" "init.el" "history" "elpa/" "custom.el" "auto-save-list/" "ac-comphist.dat" ".travis.yml" ".smex-items" ".session" ".gitignore" ".git/" ".emacs.desktop.lock" ".emacs.desktop" ".agignore" ".#testing.js" ".#testing.css" ".#new.css" "#testing.js#" "#testing.css#" "#new.css#" "../" "./")
+
+ ("/home/Oleg/" (22244 48501 597360 500000) "emacs_backups/" "emacs/" "apt-cyg" ".zshrc" ".wget-hsts" ".ssh/" ".profile" ".oh-my-zsh/" ".newsrc-dribble~" ".newsrc-dribble" ".minttyrc" ".local/" ".inputrc" ".gitconfig" ".emacs.d/" ".cache/" ".bash_profile" ".bash_history" ".bashrc" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

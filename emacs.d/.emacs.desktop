@@ -1,0 +1,115 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Mar 13 02:28:13 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22244 49709 449181 700000) (desktop . "206") "Oleg@LY50-WS" nil nil ((((tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "wheat") (tool-bar-lines . 0) (background-color . "black") (font . "tty") (height . 53) (width . 211) (modeline . t) (unsplittable) (menu-bar-lines . 1) (internal-border-width . 0) (frameset--id . "E2AB-0DCB-61F3-0BBC") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 211) (pixel-height . 51) (total-width . 211) (total-height . 51) (normal-height . 1.0) (normal-width . 1.0) (buffer "auto-save-list" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 174) (start . 1))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("dired" "emmet-expand-yas" "menu-bar-open" "emmet-expand-yas" "emmet-mode" "list-packages" "menu-bar-open" "customize-themes" "package-menu-mode" "menu-bar-open" "package-menu-mode" "package-install" "slime-profile-package" "customize-themes" "customize" "customize-mode"))
+(setq face-name-history nil)
+(setq file-name-history '("~/.emacs.d/LICENSE" "/Cygwin-Terminal.ico" "~/.emacs.d/LICENSE" "/Cygwin-Terminal.ico" "/home/Oleg/.emacs.d/LICENSE" "/home/Oleg/.emacs.d/new.css" "/home/Oleg/.emacs.d/#testing.css#" "/home/Oleg/.emacs.d/testing.js" "/home/Oleg/.emacs.d/testing.css" "/home/Oleg/.emacs.d/testing.html" "~/.emacs.d/init.el" "/home/Oleg/html.html" "/home/Oleg/letstest.js" "~/.emacs.d/elpa/ac-emmet-20131015.858/ac-emmet-autoloads.el" "~/.emacs.d/elpa/ac-helm-20140919.917/ac-helm-autoloads.el" "~/.emacs.d/elpa/helm-20160307.2253/helm-autoloads.el" "~/.emacs.d/elpa/helm-core-20160311.2126/helm-core-autoloads.el" "~/.emacs.d/elpa/ac-html-20151005.31/ac-html-autoloads.el" "~/.emacs.d/elpa/ac-html-angular-20151224.2319/ac-html-angular-autoloads.el" "~/.emacs.d/elpa/ac-html-bootstrap-20160302.901/ac-html-bootstrap-autoloads.el" "~/.emacs.d/elpa/ac-html-csswatcher-20151208.1313/ac-html-csswatcher-autoloads.el" "~/.emacs.d/elpa/web-completion-data-20150623.333/web-completion-data-autoloads.el" "~/.emacs.d/elpa/angular-mode-20151201.1327/angular-mode-autoloads.el" "~/.emacs.d/elpa/angular-snippets-20140513.2223/angular-snippets-autoloads.el" "~/.emacs.d/elpa/auto-auto-indent-20131106.1103/auto-auto-indent-autoloads.el" "~/.emacs.d/elpa/es-lib-20141111.1030/es-lib-autoloads.el" "~/.emacs.d/elpa/auto-yasnippet-20160223.308/auto-yasnippet-autoloads.el" "~/.emacs.d/elpa/docean-20150927.1118/docean-autoloads.el" "~/.emacs.d/elpa/request-20160108.33/request-autoloads.el" "~/.emacs.d/elpa/emmet-mode-20151213.738/emmet-mode-autoloads.el" "~/.emacs.d/elpa/js2-highlight-vars-20150914.108/js2-highlight-vars-autoloads.el" "~/.emacs.d/elpa/js2-refactor-20151029.507/js2-refactor-autoloads.el" "~/.emacs.d/elpa/yasnippet-20160226.1359/yasnippet-autoloads.el" "~/.emacs.d/elpa/js3-mode-20150902.949/js3-mode-autoloads.el" "~/.emacs.d/custom.el" "~/.emacs.d/org-clock-save.el" "/home/Oleg/testing.html" "~/.emacs.d/custom.el" "/home/Oleg/testing.js" "~/.emacs.d/custom.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ido-buffer-history '("#testing.css#" "testing.html" "init.el" "letstest.js" "*Packages*" "testing.html" "*Custom Themes*" "*Customize Group: Emacs*" "*Customize Group: Faces*" "*Customize Group: Basic Faces*" "testing.js"))
+(setq ido-last-directory-list '(("/cygdrive/c/Users/Oleg/" . "AppData/") ("/cygdrive/c/Users/" . "Oleg/") ("/cygdrive/c/" . "Users/") ("/cygdrive/" . "c/") ("/" . "cygdrive/")))
+(setq ido-work-directory-list '("/" "/home/Oleg/.emacs.d/" "/home/Oleg/"))
+(setq ido-work-file-list '("Cygwin-Terminal.ico" "LICENSE" "new.css" "#testing.css#" "testing.js" "testing.css" "testing.html" "html.html" "letstest.js"))
+(setq minibuffer-history '("0"))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq search-ring '("hook" "emmet" "helm" "yasnippet" "yasni" "js2" "npm"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  nil
+  "auto-save-list"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode diff-hl-dired-mode)
+  174
+  '(nil nil)
+  t
+  '("/home/Oleg/.emacs.d/auto-save-list/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "Desktop"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode diff-hl-dired-mode)
+  622
+  '(nil nil)
+  t
+  '("/cygdrive/c/Users/Oleg/Desktop/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "Oleg"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode diff-hl-dired-mode)
+  1082
+  '(nil nil)
+  t
+  '("/cygdrive/c/Users/Oleg/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "Users"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode diff-hl-dired-mode)
+  798
+  '(nil nil)
+  t
+  '("/cygdrive/c/Users/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "c"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode diff-hl-dired-mode)
+  1927
+  '(nil nil)
+  t
+  '("/cygdrive/c/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Cygwin-Terminal.ico"
+  "Cygwin-Terminal.ico"
+  'fundamental-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion)))
+
+(desktop-create-buffer 206
+  "/home/Oleg/.emacs.d/LICENSE"
+  "LICENSE"
+  'fundamental-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode auto-compile-on-load-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
