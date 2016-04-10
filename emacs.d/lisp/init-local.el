@@ -49,6 +49,12 @@
     (add-to-list 'initial-frame-alist '(font . "DejaVu Sans Mono-12"))
     (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono-12")))))
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Set default city names for WTTR.IN                     ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+(setq wttrin-default-cities '("Munich" "Barcelona"))
+
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
