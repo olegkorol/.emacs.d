@@ -28,3 +28,13 @@ Improved support for:
 
 
 If you want to add your own customizations, please do it here: `~/.emacs.d/lisp/init-local.el`.
+
+
+## Last changes ##
+(14.04.2016)
+* Autocomplete-mode starts automatically for JavaScript (with a pop-up box)
+* Bigger default font-size (you can still always zoom in `C+x C-+`, or out `C+x C--`)
+* Linum-mode (numeration) is now automatically activated for most of the major modes
+* Beautify function for HTML, CSS, JS is now available. To beautify => `M-x web-beautify-*js/json/html/css*`
+* Whitespace trailing made more appealing (magenta wave underline)
+* Flycheck messages available as emojis. To activate => `flycheck-status-emoji-mode`
