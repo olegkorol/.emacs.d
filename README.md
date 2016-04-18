@@ -3,7 +3,7 @@
 
 ## Description ##
 
-This is a custom configuration for GNU's Emacs (best for v. >24).
+This is a custom configuration for GNU's Emacs (best for v. >24). Based on Steve Purcell's configuration.
 
 
 It includes autocompletion out of the box and automatically highlights syntax errors using `flycheck`.
