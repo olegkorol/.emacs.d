@@ -1,3 +1,24 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Emacs session files #
+#######################
 .emacs.desktop
-history/*
+history/
 .session
+ac-comphist.dat
+ido.last
+recentf
+.smex-items
+ditaa0_9.jar
+elpa/org-mac-iCal-20140107.519/
+elpa/org-mac-link-20160109.1443/
+elpa/osx-location-20150613.217/
+.emacs.desktop.lock

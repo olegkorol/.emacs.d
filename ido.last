@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/oleg.korol/" . "Desktop/")
  ("/home/" . "oleg/")
  ("/home/oleg/.emacs.d/" . "lisp/")
  ("/home/oleg/" . "Documents/")
@@ -36,6 +37,10 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/oleg.korol/Desktop/" (22348 20238 0 0) "WinHTTrack.app/" "templates/" "telport_pro.app/" "SVN/" "Shared_Folder/" "sgl_2.xlsx" "SGL.xlsx" "seo_errors_sgl.xlsx" "Screen Shot 2016-05-30 at 10.40.54.png" "Screen Shot 2016-05-30 at 10.37.06.png" "Screen Shot 2016-05-30 at 10.33.30.png" "Screen Shot 2016-05-30 at 10.31.09.png" "Screen Shot 2016-05-30 at 10.28.29.png" "Screen Shot 2016-05-30 at 10.26.26.png" "Pics for MINI/" "oleg_korol.pdf" "misc./" "MINI NS Server/" "manjaro-kde-15.12-x86_64.iso" "Kopie von MINI N&S_Feindaten_Liste_inkl KATEGORIE.ods" "Know-how/" "interone_kanboard_key.pem" "Internet Explorer 8.app/" "htdocs" "GIT/" "freundin banner/" "Diagramme_bmw_group_relaunch/" "connect.txt" "backup_ecoweb/" "Arbeite/" "AEM6/" ".DS_Store" "../" "./")
+
+ ("/Users/oleg.korol/" (22348 23748 0 0) "VirtualBox VMs/" "var/" "Public/" "Prezi/" "PlayOnMac's virtual drives/" "Pictures/" "News/" "MyJabberFiles/" "Music/" "Movies/" "mcs-desktop/" "Library/" "emacs_backup/" "Downloads/" "Documents/" "Desktop/" "Applications/" "Angular/" "Accellion/" ".~git/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-024MUNMH0RLDV7N-5.2" ".zcompdump-024MUNMH0RLDV7N-5.0.5" ".viminfo" ".travis.yml" ".Trash/" ".test.txt.swp" ".subversion/" ".ssh/" ".sqlite_history" ".smex-items" ".sh_history" ".session" ".rnd" ".pwd/" ".p2/" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".node_repl_history" ".node-gyp/" ".newsrc-dribble" ".netrc" ".mysql_history" ".MY_DATA/" ".mediaocean/" ".macports/" ".local/" ".lesshst" ".jssc/" ".hgignore_global" ".heroku/" ".gnupg/" ".gitignore_global" ".gitignore" ".gitconfig" ".emacs.d/" ".eclipse/" ".DS_Store" ".cups/" ".config/" ".composer/" ".cisco/" ".CFUserTextEncoding" ".CF89AA64" ".cache/" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" ".agignore" ".account" "../" "./")
+
  ("/home/oleg/Documents/" (22289 23119 798561 149000) "tor-browser_en-US/" "PDFs/" "fonts/" "../" "index.js" "rtlwifi_new/" "OpenVPN/" "Tim_Ferriss_Show_-_Josh_Waitzkin_Returns.mp3" "./" "#index.js#")
 
  ("/home/oleg/.emacs.d/" (22289 23104 628584 504000) "recentf" "custom.el" "ac-comphist.dat" "site-lisp/" ".smex-items" "LICENSE" "../" ".emacs.desktop" ".session" ".emacs.desktop.lock" "org-clock-save.el" "ido.last" "lisp/" "auto-save-list/" "elpa/" "history" "test-startup.sh" "./" "init.el")
