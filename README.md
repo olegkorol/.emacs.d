@@ -31,6 +31,8 @@ If you want to add your own customizations, please do it here: `~/.emacs.d/lisp/
 
 
 ## Last changes ##
+(30.05.2016)
+* Added WTTRIN. It allows checking the weather forecast from inside Emacs. `M+x wttrin 'cityname'`
 (14.04.2016)
 * Autocomplete-mode starts automatically for JavaScript (with a pop-up box)
 * Bigger default font-size (you can still always zoom in `C+x C-+`, or out `C+x C--`)
