@@ -32,7 +32,7 @@ If you want to add your own customizations, please do it here: `~/.emacs.d/lisp/
 
 ## Last changes ##
 (11.06.2016)
-* Added indent-guide. To activate: `indent-guide-mode`. [link](https://github.com/zk-phi/indent-guide "zk-phi/indent-guide")
+* Added indent-guide. To activate: `M+x indent-guide-mode`. [link](https://github.com/zk-phi/indent-guide "zk-phi/indent-guide")
 
 
 (30.05.2016)
