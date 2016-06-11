@@ -32,10 +32,11 @@ If you want to add your own customizations, please do it here: `~/.emacs.d/lisp/
 
 ## Last changes ##
 (11.06.2016)
-* Added indent-guide: https://github.com/zk-phi/indent-guide
+* Added indent-guide. To activate: `indent-guide-mode`. [link](https://github.com/zk-phi/indent-guide "zk-phi/indent-guide")
+
 
 (30.05.2016)
-* Added WTTRIN. It allows checking the weather forecast from inside Emacs. `M+x wttrin 'cityname'`
+* Added WTTRIN. It allows checking the weather forecast from inside Emacs: `M+x wttrin 'cityname'`. [link](https://github.com/bcbcarl/emacs-wttrin "bcbcarl/emacs-wttrin")
 
 (14.04.2016)
 * Autocomplete-mode starts automatically for JavaScript (with a pop-up box)
