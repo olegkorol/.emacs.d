@@ -31,6 +31,9 @@ If you want to add your own customizations, please do it here: `~/.emacs.d/lisp/
 
 
 ## Last changes ##
+(11.06.2016)
+* Added indent-guide: https://github.com/zk-phi/indent-guide
+
 (30.05.2016)
 * Added WTTRIN. It allows checking the weather forecast from inside Emacs. `M+x wttrin 'cityname'`
 
